@@ -96,7 +96,7 @@ Ajax를 활용하여 화면 전환(Reload) 없이 과제 등록, 제출, 채점 
 
 <a name="systemArchitecture"></a>
 
-<img src="./images/unicook_System Architecture.png">
+<img src="./images/eLMS_System Architecture.png">
 
 - Frontend: HTML5, CSS3, JavaScript를 활용하여 깔끔하고 가독성 좋은 UI와 Ajax를 이용한 비동기 통신 환경을 구축 
 - Backend & DB: Flask 프레임워크를 사용하여 서버를 구현하였으며, MySQL을 통해 사용자 정보 및 구매 이력 데이터를 관리
