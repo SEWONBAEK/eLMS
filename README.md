@@ -38,9 +38,8 @@ Ajax를 활용하여 화면 전환(Reload) 없이 과제 등록, 제출, 채점 
 **주요 기능**
 
 
-- **Numpy**, **Pandas**를 이용한 전처리
-- **Scikit-learn(SVD)**, **협업 필터링**의 **코사인 유사도 분석** 이용
-- 분석한 내용과 시간대별 추천과 아이템 카테고리 결합
+- 
+- 
   
 <div align="right"><a href="#tableContents">목차로 이동</a></div>
 
