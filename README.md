@@ -99,10 +99,11 @@ Ajax를 활용하여 화면 전환(Reload) 없이 과제 등록, 제출, 채점 
 <img src="./images/eLMS_System Architecture.png">
 
 - Frontend: HTML5, CSS3, JavaScript를 활용하여 깔끔하고 가독성 좋은 UI와 Ajax를 이용한 비동기 통신 환경을 구축 
-- Backend & DB: Flask 프레임워크를 사용하여 서버를 구현하였으며, MySQL을 통해 사용자 정보 및 구매 이력 데이터를 관리
-- AI Engine: Pandas와 NumPy로 전처리된 데이터를 바탕으로, Scikit-learn의 SVD(특이값 분해) 및 코사인 유사도 알고리즘을 활용해 고도화된 개인화 추천 로직을 수행
+- Backend & DB: Spring 프레임워크를 사용하여 서버를 구현하였으며, MySQL을 통해 교수, 학생 데이터를 관리
 
-본 프로젝트는 Flask 기반의 웹 서버와 Scikit-learn 기반의 AI 추천 엔진을 결합한 지능형 커머스 플랫폼입니다. 사용자 구매 데이터를 분석하여 개인 맞춤형 상품을 추천하는 시스템 아키텍처를 구축하였습니다.
+본 프로젝트는 Spring MVC 아키텍처를 기반으로 설계된 비대면 과제 관리 플랫폼입니다.<br />
+Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 매끄러운 사용자 경험을 제공하며,<br />
+관리자·교수·학생 각 사용자 역할에 최적화된 비즈니스 로직을 독립적으로 처리할 수 있도록 시스템 아키텍처를 구축하였습니다.
 
 <div align="right"><a href="#tableContents">목차로 이동</a></div>
 
