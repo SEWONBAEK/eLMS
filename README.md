@@ -302,10 +302,26 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
     </tr>
     <tr>
       <td align="center">
-        <div>✔ 장바구니 담은 상품 비동기 통신(AJAX)을 통한수량 및 가격 변경</div>
+        <div>✔ 교수 로그인 시 초기 페이지입니다.</div>
+        <div>✔ 과목 관리 리스트 페이지입니다.</div>
       </td>
       <td align="center">
-        <div>✔ 장바구니에 담은 상품과 유사한 상품을 분석 및 시각화</div>
+        <div>✔ 과목 등록에 필요한 정보를 입력하는 모달창을 띄워줍니다.</div>
+      </td>
+      <td align="center">
+        <div>✔ 과목 수정에 필요한 정보를 수정하는 모달창을 띄워줍니다.</div>
+      </td>
+      <td align="center">
+        <div>✔ 과제 제출 및 채점 현황을 보여주는 리스트입니다.</div>
+      </td>
+      <td align="center">
+        <div>✔ 과제 등록에 필요한 정보를 입력하는 페이지입니다.</div>
+      </td>
+      <td align="center">
+        <div>✔ 과제 수정에 필요한 정보를 수정하는 페이지입니다.</div>
+      </td>
+      <td align="center">
+        <div>✔ 등록한 과제 정보를 조회하는 페이지입니다.</div>
       </td>
     </tr>
 </table>
