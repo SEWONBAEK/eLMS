@@ -394,41 +394,43 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
 <table>
     <tr>
         <td align="center" width="200">
-            <h5></h5>
-            <img src="./images/.png" alt="" width="200" />  
+            <h5>수강 신청 페이지</h5>
+            <img src="./images/student_subject_list.png" alt="수강 신청 리스트" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5></h5>
-            <img src="./images/.png" alt="" width="200" />  
+            <h5>과제 관리 리스트</h5>
+            <img src="./images/student_submission_list.png" alt="과제 관리 리스트" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5></h5>
-            <img src="./images/.png" alt="" width="200" />  
+            <h5>과제 작성</h5>
+            <img src="./images/student_submission_write.png" alt="과제 작성" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5></h5>
-            <img src="./images/.png" alt="" width="200" />  
+            <h5>과제 상세 조회</h5>
+            <img src="./images/student_submission_view.png" alt="과제 상세 조회" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5></h5>
-            <img src="./images/.png" alt="" width="200" />  
+            <h5>제출한 과제 상세 조회</h5>
+            <img src="./images/student_my_submission_view.png" alt="제출한 과제 상세 조회" width="200" />  
         </td>
     </tr>
     <tr>
       <td align="center">
-        <div>✔ </div>
+        <div>✔ 수강 신청 및 취소 페이지입니다.</div>
+        <div>✔ 신청기간에 날짜에 포함되어 있어야 수강 신청 가능합니다.</div>
       </td>
       <td align="center">
-        <div>✔ </div>
+        <div>✔ 내가 신청한 과목의 모든 과제현황을 보여주는 페이지입니다.</div>
       </td>
       <td align="center">
-        <div>✔ </div>
+        <div>✔ 내가 선택한 과제 제출을 위해 작성하는 페이지입니다.</div>
       </td>
       <td align="center">
-        <div>✔ </div>
+        <div>✔ 교수가 작성한 과제의 상세 내용을 볼 수 있는 페이지입니다.</div>
       </td>
       <td align="center">
-        <div>✔ </div>
+        <div>✔ 내가 제출한 과제의 상세 내용을 볼 수 있는 페이지입니다.</div>
+        <div>✔ 프론트엔드, 백엔드에서 수정 및 삭제 기능을 마감 기한에 맞게 가능 또는 불가능하게 구현하였습니다.</div>
       </td>
     </tr>
 </table>
