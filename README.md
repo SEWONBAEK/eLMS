@@ -272,32 +272,32 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
 <table>
     <tr>
         <td align="center" width="200">
-            <h5>장바구니 화면</h5>
-            <img src="./images/cart.png" alt="" width="200" />  
+            <h5>교수 메인 페이지</h5>
+            <img src="./images/teacher_subject_management.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>장바구니 분석</h5>
-            <img src="./images/cart_recommend.png" alt="" width="200" />  
+            <h5>과목 등록 모달</h5>
+            <img src="./images/teacher_subject_add.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>장바구니 분석</h5>
-            <img src="./images/cart_recommend.png" alt="" width="200" />  
+            <h5>과목 수정 모달</h5>
+            <img src="./images/teacher_subject_edit.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>장바구니 분석</h5>
-            <img src="./images/cart_recommend.png" alt="" width="200" />  
+            <h5>과제 게시판 리스트</h5>
+            <img src="./images/teacher_submission_list.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>장바구니 분석</h5>
-            <img src="./images/cart_recommend.png" alt="" width="200" />  
+            <h5>과제 등록</h5>
+            <img src="./images/teacher_submission_write.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>장바구니 분석</h5>
-            <img src="./images/cart_recommend.png" alt="" width="200" />  
+            <h5>과제 수정</h5>
+            <img src="./images/teacher_submission_edit.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>장바구니 분석</h5>
-            <img src="./images/cart_recommend.png" alt="" width="200" />  
+            <h5>과제 정보 조회</h5>
+            <img src="./images/teacher_submission_view.png" alt="" width="200" />  
         </td>
     </tr>
     <tr>
