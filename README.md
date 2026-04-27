@@ -299,9 +299,21 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
             <h5>장바구니 분석</h5>
             <img src="./images/cart_recommend.png" alt="" width="200" />  
         </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <div>✔ 장바구니 담은 상품 비동기 통신(AJAX)을 통한수량 및 가격 변경</div>
+      </td>
+      <td align="center">
+        <div>✔ 장바구니에 담은 상품과 유사한 상품을 분석 및 시각화</div>
+      </td>
+    </tr>
+</table>
+<table>
+    <tr>
         <td align="center" width="200">
-            <h5>장바구니 분석</h5>
-            <img src="./images/cart_recommend.png" alt="" width="200" />  
+            <h5>장바구니 화면</h5>
+            <img src="./images/cart.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
             <h5>장바구니 분석</h5>
@@ -337,6 +349,7 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
       </td>
     </tr>
 </table>
+
 
 ### 4. 구매내역
 
