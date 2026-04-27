@@ -328,40 +328,62 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
 <table>
     <tr>
         <td align="center" width="200">
-            <h5>교수 공지사항 리스트 페이지</h5>
+            <h5>공지사항 리스트 페이지</h5>
             <img src="./images/teacher_notice_list.png" alt="교수 공지사항 리스트" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>교수 공지사항 상세</h5>
+            <h5>공지사항 상세</h5>
             <img src="./images/teacher_notice_view.png" alt="교수 공지사항 상세" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>교수 아이디 찾기</h5>
+            <h5>아이디 찾기</h5>
             <img src="./images/teacher_id_find.png" alt="교수 아이디 찾기" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>교수 비밀번호 찾기</h5>
+            <h5>비밀번호 찾기</h5>
             <img src="./images/teacher_password_find.png" alt="교수 비밀번호 찾기" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>교수 개인 정보 수정</h5>
-            <img src="./images/teacher_info_edit_password.png" alt="교수 개인정보 수정 비밀번호 확인" width="200" />  
+            <h5>개인 정보 수정 비밀번호 확인</h5>
+            <img src="./images/teacher_info_edit_password.png" alt="교수 개인 정보 수정 비밀번호 확인" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>장바구니 분석</h5>
-            <img src="./images/cart_recommend.png" alt="" width="200" />  
+            <h5>개인 정보 수정</h5>
+            <img src="./images/teacher_info_edit.png" alt="교수 개인 정보 수정" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>장바구니 분석</h5>
-            <img src="./images/cart_recommend.png" alt="" width="200" />  
+            <h5>과제별 채점 리스트</h5>
+            <img src="./images/teacher_submission_grading_list.png" alt="과제별 채점 리스트" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>과제 채점 및 피드백 작성</h5>
+            <img src="./images/teacher_submission_grading_feedback.png" alt="과제 채점 및 피드백 작성" width="200" />  
         </td>
     </tr>
     <tr>
       <td align="center">
-        <div>✔ 장바구니 담은 상품 비동기 통신(AJAX)을 통한수량 및 가격 변경</div>
+        <div>✔ </div>
       </td>
       <td align="center">
-        <div>✔ 장바구니에 담은 상품과 유사한 상품을 분석 및 시각화</div>
+        <div>✔ </div>
+      </td>
+      <td align="center">
+        <div>✔ </div>
+      </td>
+      <td align="center">
+        <div>✔ </div>
+      </td>
+      <td align="center">
+        <div>✔ </div>
+      </td>
+      <td align="center">
+        <div>✔ </div>
+      </td>
+      <td align="center">
+        <div>✔ </div>
+      </td>
+      <td align="center">
+        <div>✔ </div>
       </td>
     </tr>
 </table>
