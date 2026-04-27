@@ -284,7 +284,7 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
             <img src="./images/teacher_subject_edit.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>과제 게시판 리스트</h5>
+            <h5>과제 게시판 목록</h5>
             <img src="./images/teacher_submission_list.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
@@ -303,7 +303,7 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
     <tr>
       <td align="center">
         <div>✔ 로그인 시 초기 페이지입니다.</div>
-        <div>✔ 과목 관리 리스트 페이지입니다.</div>
+        <div>✔ 과목 관리 목록 페이지입니다.</div>
       </td>
       <td align="center">
         <div>✔ 과목 등록에 필요한 정보를 입력하는 모달창을 띄워줍니다.</div>
@@ -362,7 +362,7 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
     </tr>
     <tr>
       <td align="center">
-        <div>✔ 공지사항 리스트를 배경색만 녹색으로 보여줍니다.</div>
+        <div>✔ 공지사항 목록을 배경색만 녹색으로 보여줍니다.</div>
       </td>
       <td align="center">
         <div>✔ 공지사항 상세 페이지를 배경색만 녹색으로 보여줍니다.</div>
@@ -398,7 +398,7 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
             <img src="./images/student_subject_list.png" alt="수강 신청 리스트" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>과제 관리 리스트</h5>
+            <h5>과제 관리 목록</h5>
             <img src="./images/student_submission_list.png" alt="과제 관리 리스트" width="200" />  
         </td>
         <td align="center" width="200">
@@ -463,19 +463,22 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
     </tr>
     <tr>
       <td align="center">
-        <div>✔ </div>
+        <div>✔ 공지사항 목록을 배경색만 남색으로 보여줍니다.</div>
       </td>
       <td align="center">
-        <div>✔ </div>
+        <div>✔ 공지사항 상세 페이지를 배경색만 녹색으로 보여줍니다.</div>
       </td>
       <td align="center">
-        <div>✔ </div>
+        <div>✔ 아이디 찾기 페이지입니다.</div>
       </td>
       <td align="center">
-        <div>✔ </div>
+        <div>✔ 비밀번호 찾기 페이지입니다.</div>
       </td>
       <td align="center">
-        <div>✔ </div>
+        <div>✔ 개인 정보 변경 전 비밀번호 확인 페이지입니다.</div>
+      </td>
+      <td align="center">
+        <div>✔ 개인 정보 수정하는 페이지입니다.</div>
       </td>
     </tr>
 </table>
