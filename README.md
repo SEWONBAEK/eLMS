@@ -212,22 +212,50 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
     </tr>
 </table>
 
-### 2. 상세 페이지
+### 2. 관리자 페이지
 
 <table>
     <tr>
         <td align="center" width="200">
-            <h5>상세 페이지 화면</h5>
-            <img src="./images/view.png" alt="상세 페이지" width="200" />  
+            <h5>관리자 공지사항 목록</h5>
+            <img src="./images/admin_notice_list.png" alt="관리자 공지사항 목록" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>상세 페이지 분석 및 시각화</h5>
-            <img src="./images/view_recommend.png" alt="상세 페이지 분석" width="200" />  
+            <h5>관리자 공지사항 작성</h5>
+            <img src="./images/admin_notice_write.png" alt="관리자 공지사항 작성" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>관리자 공지사항 수정</h5>
+            <img src="./images/admin_notice_edit.png" alt="관리자 공지사항 수정" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>관리자 공지사항 상세</h5>
+            <img src="./images/admin_notice_view.png" alt="관리자 공지사항 상세" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>관리자 교수관리</h5>
+            <img src="./images/admin_teacher_management.png" alt="관리자 교수관리" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>관리자 학생관리</h5>
+            <img src="./images/admin_student_management.png" alt="관리자 학생관리" width="200" />  
         </td>
     </tr>
     <tr>
       <td align="center">
         <div>✔ 현재 페이지의 제품과 유사한 상품 화면에 표시</div>
+      </td>
+      <td align="center">
+        <div>✔ 현재 페이지 상품과 유사한 제품을 분석 및 Heatmap으로 시각화</div>
+      </td>
+      <td align="center">
+        <div>✔ 현재 페이지 상품과 유사한 제품을 분석 및 Heatmap으로 시각화</div>
+      </td>
+      <td align="center">
+        <div>✔ 현재 페이지 상품과 유사한 제품을 분석 및 Heatmap으로 시각화</div>
+      </td>
+      <td align="center">
+        <div>✔ 현재 페이지 상품과 유사한 제품을 분석 및 Heatmap으로 시각화</div>
       </td>
       <td align="center">
         <div>✔ 현재 페이지 상품과 유사한 제품을 분석 및 Heatmap으로 시각화</div>
