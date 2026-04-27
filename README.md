@@ -272,7 +272,7 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
 <table>
     <tr>
         <td align="center" width="200">
-            <h5>교수 메인 페이지</h5>
+            <h5>메인 페이지</h5>
             <img src="./images/teacher_subject_management.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
@@ -302,7 +302,7 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
     </tr>
     <tr>
       <td align="center">
-        <div>✔ 교수 로그인 시 초기 페이지입니다.</div>
+        <div>✔ 로그인 시 초기 페이지입니다.</div>
         <div>✔ 과목 관리 리스트 페이지입니다.</div>
       </td>
       <td align="center">
@@ -389,25 +389,25 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
 </table>
 
 
-### 4. 구매내역
+### 4. 학생
 
 <table>
     <tr>
         <td align="center" width="200">
-            <h5>구매내역 화면</h5>
-            <img src="./images/purchase.png" alt="" width="200" />  
+            <h5></h5>
+            <img src="./images/.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>구매내역 분석</h5>
-            <img src="./images/purchase_recommend.png" alt="" width="200" />  
+            <h5></h5>
+            <img src="./images/.png" alt="" width="200" />  
         </td>
     </tr>
     <tr>
       <td align="center">
-        <div>✔ 구매내역을 전체, 1개월, 3개월 필터화</div>
+        <div>✔ </div>
       </td>
       <td align="center">
-        <div>✔ 구매한 상품과 유사한 상품을 분석 및 시각화</div>
+        <div>✔ </div>
       </td>
     </tr>
 </table>
