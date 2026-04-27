@@ -267,13 +267,61 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
     </tr>
 </table>
 
-### 3. 장바구니
+### 3. 교수
 
 <table>
     <tr>
         <td align="center" width="200">
             <h5>장바구니 화면</h5>
             <img src="./images/cart.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>장바구니 분석</h5>
+            <img src="./images/cart_recommend.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>장바구니 분석</h5>
+            <img src="./images/cart_recommend.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>장바구니 분석</h5>
+            <img src="./images/cart_recommend.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>장바구니 분석</h5>
+            <img src="./images/cart_recommend.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>장바구니 분석</h5>
+            <img src="./images/cart_recommend.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>장바구니 분석</h5>
+            <img src="./images/cart_recommend.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>장바구니 분석</h5>
+            <img src="./images/cart_recommend.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>장바구니 분석</h5>
+            <img src="./images/cart_recommend.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>장바구니 분석</h5>
+            <img src="./images/cart_recommend.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>장바구니 분석</h5>
+            <img src="./images/cart_recommend.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>장바구니 분석</h5>
+            <img src="./images/cart_recommend.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5>장바구니 분석</h5>
+            <img src="./images/cart_recommend.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
             <h5>장바구니 분석</h5>
