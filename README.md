@@ -401,6 +401,18 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
             <h5></h5>
             <img src="./images/.png" alt="" width="200" />  
         </td>
+        <td align="center" width="200">
+            <h5></h5>
+            <img src="./images/.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5></h5>
+            <img src="./images/.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5></h5>
+            <img src="./images/.png" alt="" width="200" />  
+        </td>
     </tr>
     <tr>
       <td align="center">
@@ -409,9 +421,58 @@ Ajax를 활용한 비동기 통신 구조를 채택하여 화면 전환 없는 �
       <td align="center">
         <div>✔ </div>
       </td>
+      <td align="center">
+        <div>✔ </div>
+      </td>
+      <td align="center">
+        <div>✔ </div>
+      </td>
+      <td align="center">
+        <div>✔ </div>
+      </td>
     </tr>
 </table>
-
+<table>
+    <tr>
+        <td align="center" width="200">
+            <h5></h5>
+            <img src="./images/.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5></h5>
+            <img src="./images/.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5></h5>
+            <img src="./images/.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5></h5>
+            <img src="./images/.png" alt="" width="200" />  
+        </td>
+        <td align="center" width="200">
+            <h5></h5>
+            <img src="./images/.png" alt="" width="200" />  
+        </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <div>✔ </div>
+      </td>
+      <td align="center">
+        <div>✔ </div>
+      </td>
+      <td align="center">
+        <div>✔ </div>
+      </td>
+      <td align="center">
+        <div>✔ </div>
+      </td>
+      <td align="center">
+        <div>✔ </div>
+      </td>
+    </tr>
+</table>
 <div align="right"><a href="#tableContents">목차로 이동</a></div>
 
 <br/>
