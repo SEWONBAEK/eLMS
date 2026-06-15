@@ -1,3 +1,5 @@
+SVN으로 협업하여 작업했습니다.
+핵심역할 및 기여 : 학생 파트 전반적인 로직 구현
 <div align="center">
   <img src="./images/eLMS_Thumbnail.png" width="80%">
   <h3비대면 과제관리 시스템</h3>
