@@ -1,4 +1,4 @@
-SVN으로 협업하여 작업했습니다.
+SVN으로 협업하여 작업했습니다.<br />
 핵심역할 및 기여 : 학생 파트 전반적인 로직 구현
 <div align="center">
   <img src="./images/eLMS_Thumbnail.png" width="80%">
